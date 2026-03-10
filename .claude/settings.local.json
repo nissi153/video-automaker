@@ -6,7 +6,10 @@
       "Bash(python -c \"import moviepy.editor as mpy; print\\(''OK''\\)\")",
       "Bash(python -c \"import streamlit; print\\(streamlit.__file__\\)\")",
       "Bash(python -m streamlit --version)",
-      "Bash(python -c \":*)"
+      "Bash(python -c \":*)",
+      "Bash(pip install:*)",
+      "Bash(cmd /c build.bat)",
+      "Bash(pyinstaller --onedir --name \"video-automaker\" --collect-all streamlit --collect-all moviepy --collect-all PIL --collect-all numpy --collect-all imageio --collect-all imageio_ffmpeg --hidden-import altair --hidden-import pandas --hidden-import pyarrow --hidden-import pydeck --hidden-import decorator --hidden-import proglog --add-data \"app.py;.\" --noconfirm run_app.py)"
     ]
   }
 }

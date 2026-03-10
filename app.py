@@ -365,12 +365,10 @@ def detect_video_size(uploaded_images, quality_label: str) -> tuple:
 
 # ── 상세 설정 ────────────────────────────────────────────────────────────────
 with st.expander("⚙️ 영상 상세 설정"):
-    c1, c2, c3 = st.columns(3)
+    c1, c2 = st.columns(2)
     with c1:
         quality_label = st.selectbox("화질 (긴 변 기준)", ["FHD", "HD", "SD"], index=1)
     with c2:
-        font_size = st.slider("자막 폰트 크기", 20, 72, 38, step=2)
-    with c3:
         fps = st.selectbox("FPS", [24, 30, 60], index=1)
 
     anim_options = ["랜덤 (클립마다 다름)"] + [p[0] for p in _ANIM_PRESETS]
@@ -499,7 +497,6 @@ if st.button("🚀 자동 영상 변환 시작", type="primary", use_container_w
                     output_path=output_path,
                     video_size=video_size,
                     premium=(mode == "premium"),
-                    font_size=font_size,
                     fps=fps,
                     anim_mode=anim_mode,
                     progress_cb=update_prog,
