@@ -1,0 +1,91 @@
+여기에 요청하신 9개의 시퀀스 샷을 위한 한글 및 영문 이미지 프롬프트입니다. 각 프롬프트는 실사 이미지와 시네마틱한 분위기를 연출할 수 있도록 작성되었습니다.
+
+---
+
+### **1. 한국 도시 골목길의 버려진 진돗개 강아지**
+
+**장면 설명:** 한국의 낡은 도시 골목길, 지저분한 쓰레기 봉투들 옆에 흙이 묻고 더러운 진돗개 강아지가 버려져 있습니다. 강아지는 떨고 있으며, 어둡고 습기 찬 골목은 외로움을 강조합니다.
+
+**한글 프롬프트:** 한국의 낡고 좁은 도시 골목길. 버려진 쓰레기 봉투들 사이, 흙이 묻고 더러워진 진돗개 강아지가 전붓대 옆에 웅크리고 떨고 있다. 칙칙한 분위기, 흐린 날씨, 시네마틱한 클로즈업 샷.
+
+**English Prompt:** A narrow and old Korean city alleyway. Amidst piles of abandoned trash bags, a dirty, mud-stained Jindo puppy is huddled and shivering next to a utility pole. A depressing atmosphere, overcast weather, a cinematic close-up shot.
+
+---
+
+### **2. 50대 한국 아줌마의 발견**
+
+**장면 설명:** 50대의 한국 아줌마가 쓰레기를 버리러 나왔다가, 쓰레기 봉투 옆에 버려진 강아지를 발견합니다. 그녀는 강아지의 불쌍한 모습에 가슴 아파합니다.
+
+**한글 프롬프트:** 50대의 따뜻한 인상을 가진 한국 아줌마가 쓰레기를 버리러 나왔다가, 전붓대 옆에 버려진 더러운 진돗개 강아지를 발견한다. 그녀는 강아지를 향해 안타까운 눈빛으로 다가간다. 부드럽고 따뜻한 빛이 비추는 시네마틱한 장면.
+
+**English Prompt:** A 50-year-old Korean auntie with a warm face comes to take out the trash and discovers the dirty Jindo puppy abandoned next to the utility pole. She approaches the puppy with a look of concern. A cinematic scene with soft and warm light shining on her.
+
+---
+
+### **3. 강아지 구조와 따뜻한 집으로의 이동**
+
+**장면 설명:** 아줌마는 강아지를 조심스럽게 안고 따뜻한 집으로 데려옵니다. 강아지는 아직 두려움에 떨고 있지만, 그녀의 품 안에서 안전함을 느끼기 시작합니다.
+
+**한글 프롬프트:** 한국 아줌마가 흙이 묻고 더러워진 진돗개 강아지를 담요로 감싸 안고 따뜻한 집 안으로 데려온다. 집안의 불빛은 따뜻하고 아늑하며, 강아지는 그녀의 품 안에서 안전함을 느끼는 듯하다. 시네마틱한 느낌의 미디엄 샷.
+
+**English Prompt:** The Korean auntie brings the dirty, mud-stained Jindo puppy, wrapped in a blanket, into her warm house. The lights in the house are warm and cozy, and the puppy seems to feel safe in her arms. A cinematic medium shot.
+
+---
+
+### **4. 애지중지 키워지는 진돗개 강아지**
+
+**장면 설명:** 아줌마는 강아지를 깨끗이 씻기고, 맛있는 밥을 챙겨주며 정성을 다해 키웁니다. 강아지는 건강하고 밝아진 모습으로 그녀의 사랑을 느낍니다.
+
+**한글 프롬프트:** 한국 아줌마가 깨끗하게 씻겨진 진돗개 강아지에게 맛있는 사료와 물을 챙겨주고 있다. 강아지는 깨끗하고 건강해진 모습으로 밥을 먹고 있으며, 그녀는 그런 강아지를 흐뭇하게 바라본다. 따뜻하고 행복한 분위기, 시네마틱한 풀 샷.
+
+**English Prompt:** The Korean auntie feeds delicious food and water to the now-clean Jindo puppy. The puppy, looking clean and healthy, is eating, and she is watching it with a pleased expression. A warm and happy atmosphere, a cinematic full shot.
+
+---
+
+### **5. 1살이 되어 성견이 된 진돗개**
+
+**장면 설명:** 강아지는 1살이 되어 늠름하고 건강한 성견이 됩니다. 아줌마와 함께 산에 올라간 진돗개는 호기심 가득한 눈빛으로 주변을 둘러봅니다.
+
+**한글 프롬프트:** 1살이 된 진돗개 성견이 한국의 산길을 아줌마와 함께 걸어가고 있다. 늠름하고 건강한 진돗개는 산의 풍경을 호기심 있게 둘러보며, 그녀는 그런 진돗개를 자랑스럽게 바라본다. 밝은 햇살, 아름다운 자연, 시네마틱한 야외 샷.
+
+**English Prompt:** The 1-year-old, mature Jindo dog is walking up a mountain path in Korea with the auntie. The dignified and healthy Jindo dog looks around the mountain scenery with curiosity, and she watches it with pride. Bright sunlight, beautiful nature, a cinematic outdoor shot.
+
+---
+
+### **6. 산에서 반짝이는 산삼 발견**
+
+**장면 설명:** 산을 오르던 진돗개는 흙 속에 묻혀 반짝이는 산삼을 발견하고, 호기심에 코를 킁킁거리며 아줌마에게 신호를 보냅니다.
+
+**한글 프롬프트:** 한국의 깊은 산속, 1살이 된 진돗개 성견이 흙 속에 묻혀 반짝이는 산삼을 발견하고 코를 킁킁거린다. 산삼은 가을의 단풍잎들 사이에서 희미한 빛을 내며, 진돗개는 신기한 듯 바라본다. 신비롭고 몽환적인 분위기, 시네마틱한 클로즈업 샷.
+
+**English Prompt:** Deep in the Korean mountains, the 1-year-old Jindo dog discovers a glowing wild ginseng buried in the soil and sniffs it. The wild ginseng emits a faint light among autumn leaves, and the Jindo looks at it with curiosity. A mystical and dreamlike atmosphere, a cinematic close-up shot.
+
+---
+
+### **7. 아줌마를 초대한 진돗개**
+
+**장면 설명:** 진돗개는 발견한 산삼이 있는 곳으로 아줌마를 초대합니다. 그녀는 진돗개를 따라 산속 깊은 곳으로 이동합니다.
+
+**한글 프롬프트:** 진돗개 성견이 반짝이는 산삼이 있는 곳을 가리키며 짖는다. 아줌마는 진돗개의 안내를 따라 산속 깊은 곳으로 이동하며, 신기한 발견에 놀란 표정을 짓는다. 가을의 단풍잎이 아름다운 산길, 시네마틱한 트래킹 샷.
+
+**English Prompt:** The mature Jindo dog barks, pointing towards where the glowing wild ginseng is. The auntie follows the Jindo deep into the mountains, showing a surprised expression at the discovery. A mountain path with beautiful autumn leaves, a cinematic tracking shot.
+
+---
+
+### **8. 산삼 캐기**
+
+**장면 설명:** 아줌마는 산삼을 조심스럽게 캐고 있습니다. 그녀는 신기한 산삼의 크기와 가치에 감탄하며, 조심스럽게 흙을 파냅니다.
+
+**한글 프롬프트:** 한국 아줌마가 깊은 산속에서 반짝이는 산삼을 조심스럽게 캐고 있다. 그녀는 산삼의 크기와 가치에 놀라며, 부드럽게 흙을 파낸다. 진돗개는 옆에서 그녀의 모습을 지켜본다. 가을 단풍이 아름다운 산속, 시네마틱한 미디엄 샷.
+
+**English Prompt:** The Korean auntie is carefully digging up the glowing wild ginseng deep in the mountains. She is surprised by its size and value, gently excavating the soil. The Jindo dog watches her from the side. Deep in the autumn-colored mountains, a cinematic medium shot.
+
+---
+
+### **9. 시장에서 판 산삼의 2000만원**
+
+**장면 설명:** 아줌마는 캐낸 산삼을 시장에 나가 팔고, 2000만원 어치의 돈뭉치를 얻게 됩니다. 그녀는 행복한 미소를 지으며 돈을 품에 안습니다.
+
+**한글 프롬프트:** 활기찬 한국 시장의 활기찬 분위기 속, 아줌마가 산삼을 팔고 얻은 2000만원 어치의 돈뭉치를 행복하게 품에 안고 있다. 그녀는 환한 미소를 지으며, 돈뭉치는 투명한 봉투 안에 가득 차 있다. 시네마틱한 풀 샷, 시장의 따뜻한 조명.
+
+**English Prompt:** Amidst the lively atmosphere of a vibrant Korean market, the auntie is happily holding a bundle of 20 million won (Korean currency) that she got from selling the wild ginseng. She wears a bright smile, and the money bundle fills a transparent bag. A cinematic full shot, warm market lighting.
