@@ -3,6 +3,7 @@ import os
 import re
 import tempfile
 import random
+from itertools import groupby
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 import moviepy.editor as mpy
@@ -208,17 +209,25 @@ def create_video(
     n = len(subtitles)
     n_imgs = len(image_paths)
 
-    for i, sub in enumerate(subtitles):
-        if progress_cb:
-            progress_cb(i / n * 0.80, f"클립 {i + 1}/{n} 생성 중...")
+    # 각 자막에 이미지 인덱스 할당
+    tagged = [(min(i * n_imgs // n, n_imgs - 1), sub) for i, sub in enumerate(subtitles)]
 
-        # 전체 자막을 이미지 수로 균등 분할 (9장/27자막 → 3자막마다 1장)
-        img_idx = min(i * n_imgs // n, n_imgs - 1)
+    # 같은 이미지 인덱스가 연속되는 구간끼리 묶기
+    groups = []
+    for img_idx, group_iter in groupby(tagged, key=lambda x: x[0]):
+        group_subs = [s for _, s in group_iter]
+        total_dur = sum(max(s["end"] - s["start"], 0.1) for s in group_subs)
+        groups.append((img_idx, total_dur))
+
+    n_groups = len(groups)
+    for gi, (img_idx, duration) in enumerate(groups):
+        if progress_cb:
+            progress_cb(gi / n_groups * 0.80, f"클립 {gi + 1}/{n_groups} 생성 중...")
+
         img_path = image_paths[img_idx]
-        duration = max(sub["end"] - sub["start"], 0.1)
 
         if premium:
-            # ── 애니메이션 클립 ────────────────────────────────────────────
+            # ── 애니메이션: 전체 구간 동안 천천히 움직임 ──────────────────
             if anim_mode == "random":
                 preset = random.choice(_ANIM_PRESETS)
             else:
